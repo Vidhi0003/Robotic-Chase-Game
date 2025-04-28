@@ -18,7 +18,7 @@ We made the Arduinos communicate with each other using serial communication, mor
 10. Button
 11. Wires
 
-# Refreences
+# Refrences
 
 Here are a list of refrences we used in order to understand how communication occurs and how to wire some parts as we used parts that we did not have experience using:
 
